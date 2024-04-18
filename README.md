@@ -20,22 +20,8 @@ Personal Projects
 Professional Experiences
 Publications
 
-streamlit_resume/
-├── assets/
-│   ├── academic/
-│   ├── certifications/
-│   ├── home/
-│   ├── personal_projects/
-│   ├── work/
-│   └── cv_mouad.pdf
-├── pages/
-│   ├── 2_🏫_Academic_Background.py
-│   ├── 3_⚒️_Professional_Experiences.py
-│   ├── 4_🧪_Personal_Projects.py
-│   └── 5_🥇_Certifications.py
-├── styles/
-│   └── main.css
-└── 1_🏡_Home.py
+![image](https://github.com/OlenaTokova/Portfolio/assets/153076354/734de31c-1914-4fbe-93c5-e85e3d3dbf0b)
+
 
 
 # Knowledge and Skills Gained from This Project:
